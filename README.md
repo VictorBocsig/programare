@@ -1,1 +1,1 @@
-# all the programming projects
+# beginning the github journey
